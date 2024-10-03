@@ -17,7 +17,7 @@ documentation: "https://www.linkedin.com/in/zambonmatteo/"
 
 versions:
   # Latest Version
-  - sha: 8337502cd0b0c39c635a0597e7d5af43412c643a
+  - sha: 9f53cd0bbb1c387d78f26aaf655bd4d6f955a5f4
     changeNotes: Release
   # Older versions
 
